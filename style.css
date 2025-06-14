@@ -1,0 +1,65 @@
+body{
+    background:url("https://img.freepik.com/free-vector/gradient-hexagonal-background_23-2148944164.jpg?semt=ais_hybrid&w=740")
+}
+header {
+    background-color: lightblue;
+    color: white;
+}
+
+main {
+    background-color: yellow;
+
+}
+
+
+
+img {
+    width: 70px;
+    height: 70px;
+    border: 3px solid purple;
+
+}
+
+.ChatGpt {
+
+    margin-left: 50px;
+    margin-right: 50px;
+
+    width: 100px;
+    background-color: blue;
+    border:7px dotted purple;
+    float:left;
+    
+}
+
+.Gemini {
+    margin-left: 50px;
+    margin-right: 50px;
+
+    width: 115px;
+    background-color: blue;
+    float:left;
+}
+footer{
+    background-color:rgb(89, 204, 242);
+    color:black;
+    margin-top:300px;
+    padding:10px
+    
+}
+.Grok{
+     margin-left: 50px;
+    margin-right: 50px;
+
+    width: 120px;
+    background-color: blue;
+    float:left;
+}
+.DeepSeek{
+     margin-left: 50px;
+    margin-right: 50px;
+
+    width: 130px;
+    background-color: blue;
+    float:left;
+}
